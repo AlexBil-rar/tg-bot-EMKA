@@ -6,8 +6,8 @@ from datetime import datetime, timedelta
 import gspread
 from google.oauth2.service_account import Credentials
 
-JSON = "database/telegrambotsheets-475711-529456e3ea7b.json"
-SPREADSHEET_KEY = "1Rf2XoUfTNaWaC2xe094KJdgkP6DKSWhv3T6fQB0Js5Q"
+JSON = "database/neon-metric-474307-c8-6393a2c845a2.json"
+SPREADSHEET_KEY = "1ApDopfE1LrZzdGIf6JhH_hncp0-pbrp7gzw2usfsPok"
 SHEET_NAME = "2025"
 
 DEBUG_MODE = os.getenv("DEBUG_MODE", "false").lower() == "true"
