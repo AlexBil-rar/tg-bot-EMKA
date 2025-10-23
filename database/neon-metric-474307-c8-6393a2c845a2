@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "neon-metric-474307-c8",
+  "private_key_id": "6393a2c845a22e638a98af2aa2fb479043414270",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJ84c5gZ5gsMnS\nV7G9MdjO+5QgmFB/NcFdpviIbFdEWnaCRlRUNo3+3PVg+pcmAR0L0oytFcwxT6kk\nh/Iix6vk7v3RdLEvyaZEE20osKVD7bIbTIHWZ024j4R1P1W8mEI9SNedK8mAAGaR\nxP2uwYT9Yyzfce8rFf69akqMJn1mNym3IaJk50A6HQm2od6HDP+rotYXvNGSqPF2\nliDvMPbP3a2I+YKa7iy4SPr38lrfKtvFKPPTohGOyldgDOtkGHciC47M46UMuj68\n4SaEZwpi8OuqPfo/7ANo+axuYwxHfhLfWCbZe9sGDENVOhATm5CW8VIy39cimG/j\ntn5tq2AdAgMBAAECggEABEe6DPj3T1tP27pqFPVyf+iLGinAQwHzqDV6vQF21AcK\nzfYJoYNKfSVXugd1nqOVZwO+YYi9vCnRDuomsqACv6ZlEMRlYProIDc9MAiWaBso\nlDWJ5u5nkkrQZt/BxG6BsOTTVQxxh9n6UoqXSdXmKKyqbc3vYL1lmcQf8lp6e+kT\nwCrvq6Zjlvvqi8c32/tJMKUAROgUtBxRo6GHVitb1ezbWHQnjGRnkGOCjxQc1Yqa\ntmt5I+OQvC8dtLVh0TnjU6tDz8kCbIwbvXGmQZp/Y0xb3dWv6NkVpfwS5Qlk2oWg\n4afH3jOx+d+vOc7ZNFMoiGIkwKrXgP44erMTGNmBIQKBgQDo65UiCl4TfzvDl2Lf\nbFAYtzhh6rNWc+p5c0PyI7thXapZOlOjlwzPSyeHOgaVMGL7mt8045pxEjytK4+O\n1jwW8M2Sas8BwzCyYWZYbwrWgbYzGfq5NwZsxdRqK4d5TqiOFcSHAAVP1DjiVQV+\nNgH435uDpyJzeOcMDRQ4HKdH9QKBgQDd9l2IihNcBxbPHf/Yu2zhzpkZVJkgaBfn\nKIUOmNTeYO63xlqsmVxN+5XCJb7RW5QJ/364+R1xuByFj4Uwk9AcFMAETIzELN8y\nf7dP+NaVOwhgD7MsqZyyRTN4+r28o/b85vGGDMfKH0X/mMvh0nmMvgei5n4kG6T0\nWTRILGmmiQKBgGQWp9Ui4145dHMOIJylrJ2SThY1hq8FzKI31+C7Xg/u8f65w6su\ng4CoaOoBE0cUrdQ0runJTFp+XbiEWYIlqViqTYw3fZDiUZC1rgceYGfhAWxgI49n\nh8lCEY81+Vc1Z9T2oabpaV7ucStBIcUkbCCH5gnizjkUoSRakm+yUGfpAoGBAKlG\nBbbndjQsw9xYiJGE/liG8oM63Ty1peUIJdEoBM9DJUrJ3sTagGaIg4F4v7lyGcg2\nLTJr6WScgEPrXCvbzk5cFMQyjPffMKiWdfprT1qnlo+L6Z0aDQJ3e/W7Y4/Fi8r7\nZR5SCNvAVeXDZVlm5oPLOI+nMHPhET+3+ANCu5/hAoGAMmAk18VPmyo5rQx3Emmp\n38wwia3vbOhJKRoCeIdY2+KuoelPFTpXL3Q6Syd33LLglzJbBymcYg8yEApxgQVq\n2V0fdUjYDLQluvzzx4vnk3eAitHzj6ErclbhJ9vaeFS9w8i+W/CCkvXr0y23NmsM\nBFcY0kc/muQAkjlSG1nxthI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-api-service@neon-metric-474307-c8.iam.gserviceaccount.com",
+  "client_id": "110382144008015304574",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-api-service%40neon-metric-474307-c8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
